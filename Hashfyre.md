@@ -87,7 +87,7 @@
 
 > A migration story
 
-- Moving an entire VPC from us-east-1 to ap-south-1 during demo under peak load seamlessly
+- Moving an entire VPC from us-east-1 to ap-south-1 during demonitization under peak load seamlessly
 - our devs didn't know the next day that we had moved regions
 - the frontend person noticed reduced response times and came to ask us during lunch the next day
 - we did this with a 2 month prep + code + rehearsals and zero downtime
